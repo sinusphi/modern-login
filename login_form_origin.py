@@ -1,13 +1,11 @@
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'login_form.ui'
-#
 # Created by: PyQt5 UI code generator 5.14.0
-#
-# WARNING! All changes made in this file will be lost!
 
+from PyQt5 import QtCore, QtWidgets
+import icons_rc
 
-from PyQt5 import QtCore, QtGui, QtWidgets
 
 
 class Ui_Form(object):
@@ -181,15 +179,17 @@ class Ui_Form(object):
         self.label_4.setText(_translate("Form", "<html><head/><body><p><img src=\":/icons/icons/mail_32x32.png\"/></p></body></html>"))
         self.pushButton.setText(_translate("Form", "Sign In"))
         self.pushButton_2.setText(_translate("Form", "Register"))
-import icons_rc
-import venvipy_rc
+
+
 
 
 if __name__ == "__main__":
     import sys
+
     app = QtWidgets.QApplication(sys.argv)
     Form = QtWidgets.QWidget()
     ui = Ui_Form()
     ui.setupUi(Form)
     Form.show()
+
     sys.exit(app.exec_())
