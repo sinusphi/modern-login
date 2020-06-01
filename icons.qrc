@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/lock_32x32.png</file>
+    <file>icons/lock_or_32x32.png</file>
+    <file>icons/mail_32x32.png</file>
+    <file>icons/rocket_48x48.png</file>
+    <file>icons/user_32x32.png</file>
+  </qresource>
+</RCC>
