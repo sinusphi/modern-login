@@ -357,8 +357,7 @@ opacity: 200;
   </layout>
  </widget>
  <resources>
-  <include location="../../github/repos/venvipy/venvipy.qrc"/>
-  <include location="../../github/repos/modern-login/icons.qrc"/>
+  <include location="icons.qrc"/>
  </resources>
  <connections/>
 </ui>
