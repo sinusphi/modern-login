@@ -6,3 +6,7 @@
 [![PyQt: 5.14.0](https://img.shields.io/badge/pyqt-5.14.0-darkgreen)](https://pypi.org/project/PyQt5)
 [![License: MIT](https://img.shields.io/badge/license-MIT-darkviolet)](https://github.com/sinusphi/modern-login/blob/master/LICENSE)
 ___
+
+[![enter image description here][1]][1]
+
+[1]: https://raw.githubusercontent.com/sinusphi/modern-login/master/img/screenshot.png
