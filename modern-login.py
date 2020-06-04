@@ -54,20 +54,10 @@ class LoginForm(QtWidgets.QWidget):
         self.pushButton_3 = QtWidgets.QPushButton(self.widget)
         self.pushButton_3.setMinimumSize(QtCore.QSize(35, 25))
         self.pushButton_3.setMaximumSize(QtCore.QSize(35, 25))
-        #self.pushButton_3.setStyleSheet("color: rgb(231, 231, 231);\n"
-                                      #"font: 11t \"Verdana\";\n"
-                                      #"border: 2px solid orange;\n"
-                                      #"border-style: inset;"
-                                      #"padding: 5px;\n"
-                                      #"border-radius: 3px;\n"
-                                      #"opacity: 200;\n"
-                                      #"")
-        self.pushButton_3.setStyleSheet("color: black;\n"
-                                        "background-color: darkorange;\n"
-                                        "font: 11t \"Verdana\";\n"
+        self.pushButton_3.setStyleSheet("color: white;\n"
+                                        "font: 13pt \"Verdana\";\n"
                                         "border-radius: 1px;\n"
-                                        "opacity: 200;\n"
-                                        "")
+                                        "opacity: 200;\n")
         self.pushButton_3.clicked.connect(self.close)
         self.verticalLayout_2.addWidget(self.pushButton_3, 0, QtCore.Qt.AlignRight)
 
