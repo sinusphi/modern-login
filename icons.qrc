@@ -1,5 +1,16 @@
 <RCC>
   <qresource prefix="icons">
+    <file>icons/eye_off_32x32.png</file>
+    <file>icons/eye_on_32x32.png</file>
+    <file>icons/google_128x128.png</file>
+    <file>icons/twitter_128x128.png</file>
+    <file>icons/gihub_128x128.png</file>
+    <file>icons/logo_lang_128x128.png</file>
+    <file>icons/x_logo_128x128.png</file>
+    <file>icons/logout_32x32.png</file>
+    <file>icons/pc_32x32.png</file>
+    <file>icons/netzwerk_32x32.png</file>
+    <file>icons/logo_128x128.png</file>
     <file>icons/lock_32x32.png</file>
     <file>icons/lock_or_32x32.png</file>
     <file>icons/mail_32x32.png</file>
