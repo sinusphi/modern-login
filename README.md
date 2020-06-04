@@ -7,6 +7,6 @@
 
 ___
 
-[![screenshot][1]][1]
+[![animation][1]][1]
 
-[1]: https://raw.githubusercontent.com/sinusphi/modern-login/master/img/screenshot.png
+[1]: https://raw.githubusercontent.com/sinusphi/modern-login/master/img/animation.gif
