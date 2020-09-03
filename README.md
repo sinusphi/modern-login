@@ -9,4 +9,4 @@ ___
 
 [![animation][1]][1]
 
-[1]: https://raw.githubusercontent.com/sinusphi/modern-login/master/img/animation.gif
+[1]: https://raw.githubusercontent.com/sinusphi/modern-login/main/img/animation.gif
