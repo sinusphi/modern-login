@@ -11,3 +11,4 @@ ___
 [![animation][1]][1]
 
 [1]: https://raw.githubusercontent.com/sinusphi/modern-login/main/img/animation.gif
+
